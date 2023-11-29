@@ -74,7 +74,7 @@ The most severe fault event (`fault_ticket_OBS300`_) was encountered on 16 Nov 2
    :ref:`Figure 2 <fig2>`. Screenshot from M2 GUI showing the fault alarm triggered by the A2, A3, A5, A6 tangent link force errors. The fault occurred during a :abbr:`RBM (Rigid Body Motion)` homing procedure 266 micron away from the zero home position.
 
 
-The recovery from this fault
+The recovery from the tangent force error fault Te-Wei Tsai had to enlarge the hard-coded values of the tangent force error threshold from 1000 N (original Harris value) to 2000 N (at the time of writing set threshold). 
 
 
 
